@@ -13,7 +13,7 @@ fi
 # ACTIVAMOS ENTORNO R
 source ~/Applications/anaconda3/etc/profile.d/conda.sh
 conda activate r_env
-echo "INFO > conda environment 'r_env' activated"
+echo "INFO > conda environment 'r_env' activated"ddd
 
 # RUN SCRIPT R
 echo "INFO > RScript init"
